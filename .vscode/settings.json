@@ -5,5 +5,6 @@
         "stdlib.h": "c",
         "math.h": "c",
         "vagoes1c": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
